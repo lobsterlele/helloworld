@@ -42,7 +42,7 @@
         <artifactId>maven-jar-plugin</artifactId>
         <version>2.3.1</version>
         <configuration>
-          <outputDirectory>/var/lib/jenkins/workspace/automated/artifacts</outputDirectory>
+          <outputDirectory>/var/lib/jenkins/workspace/automated/artifacts/</outputDirectory>
         </configuration>
       </plugin>
     </plugins>
